@@ -62,6 +62,9 @@ batik-classification
 │           └── ...
 ├── docs
 │   └── batik_classification_paper.pdf
+├── models
+│   ├── model.h5
+│   └── model.weights.h5
 ├── .gitignore
 ├── batik_classification.ipynb
 ├── README.md
