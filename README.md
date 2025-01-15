@@ -6,9 +6,9 @@ Batik, Indonesia's traditional textile arts that has been recognized as a Master
 
 ## Dataset
 [Dataset](https://drive.google.com/file/d/1ldQpQgTFg41SNPgp2KnvpbHgQvk6KH4n/view?usp=sharing) used in this project is compiled from online public dataset:
-1. [Batik Ceplok, Lereng, and Nitik Dataset](https://github.com/yohanesgultom/deep-learning-batik-classification) from Y. Gultom, A. M. Arymurthy, and R. J. Masikome (2018) 
-2. [Batik Ceplok Dataset](https://www.kaggle.com/datasets/dionisiusdh/indonesian-batik-motifs?select=batik-ceplok) from D. D. Hermansyah (2021)
-3. [Batik Kawung, Mega Mendung, Parang, and Truntum Dataset](https://github.com/arifnurrhmnn/Dataset-Motif-Batik) from arifnurrhmnn (2021)
+1. Batik Ceplok, Lereng, and Nitik Dataset from [Y. Gultom, A. M. Arymurthy, and R. J. Masikome (2018)](https://github.com/yohanesgultom/deep-learning-batik-classification) 
+2. Batik Ceplok Dataset from [D. D. Hermansyah (2021)](https://www.kaggle.com/datasets/dionisiusdh/indonesian-batik-motifs?select=batik-ceplok)
+3. Batik Kawung, Mega Mendung, Parang, and Truntum Dataset from [arifnurrhmnn (2021)](https://github.com/arifnurrhmnn/Dataset-Motif-Batik)
 
 This project's dataset detail:
 | Class        	| Train size 	| Test size 	| Total 	 |
